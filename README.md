@@ -1,5 +1,5 @@
 
-<img align="right" width="400" alt="coding" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCyberpunk%2Fcomments%2F17orhba%2Fcoding_by_pixel_jeff%2F&psig=AOvVaw2bsWkfQcZimVsM0BEmeMO7&ust=1716960544535000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCND02M7Or4YDFQAAAAAdAAAAABAE"/>
+<img align="right" width="400" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 <h1 align="center">Hi 👋, I'm Jins Joseph</h1>
 <h3 align="center">A passionate Mern developer from India</h3>
 
